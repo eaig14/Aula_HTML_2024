@@ -4,8 +4,13 @@ body{
 }
 
 header {
-   margin: 65px;
-   background-color: blueviolet;
-   text-size-adjust: 85px;
+   margin: 75px;
+   background-color: chartreuse;
+   text-size-adjust: 95px;
    justify-content: center;
 }
+ section {
+    background-color: fuchsia;
+    margin: 65px;
+    display: flex;
+ }
