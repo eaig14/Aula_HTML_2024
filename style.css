@@ -2,3 +2,10 @@ body{
     background-color: dodgerblue;
     color:black;
 }
+
+header {
+   margin: 65px;
+   background-color: blueviolet;
+   text-size-adjust: 85px;
+   justify-content: center;
+}
