@@ -3,17 +3,36 @@ body{
     color:black;
 }
 
+section{
+   background-color: rgb(199, 250, 250);
+   padding-top: 75px;
+   padding-bottom: 75px;
+   display: flex;
+   justify-content: center;
+}
+
+.primeira chamada {
+   margin-right: 5% ;
+}
+
+.mais vídeos{
+   display: flex;
+   overflow-x: auto;
+   gap:10px;
+}
+
 header {
    margin: 90px;
    background-color: chartreuse;
    text-size-adjust: 120px;
    justify-content: center;
-   border: solid 5px rgb #17e9db padding 35px;
+   border: solid 5px rgb #17e9db;
+   padding 35px;
 
 }
 
  section {
-    background-color: fuchsia;
+    background-color: rgba(54, 54, 54, 0.212);
     margin: 65px;
     display: flex;
  }
